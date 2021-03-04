@@ -40,6 +40,7 @@
 		249C668725F0C866003CDFDA /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C668625F0C866003CDFDA /* ProfileHost.swift */; };
 		249C668C25F0C8C1003CDFDA /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C668B25F0C8C1003CDFDA /* ProfileSummary.swift */; };
 		249C669125F0D067003CDFDA /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C669025F0D067003CDFDA /* HikeBadge.swift */; };
+		249C669A25F0DC75003CDFDA /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C669925F0DC75003CDFDA /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,7 @@
 		249C668625F0C866003CDFDA /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		249C668B25F0C8C1003CDFDA /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		249C669025F0D067003CDFDA /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		249C669925F0DC75003CDFDA /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +199,7 @@
 				249C669525F0D2C3003CDFDA /* Category */,
 				249C668625F0C866003CDFDA /* ProfileHost.swift */,
 				249C668B25F0C8C1003CDFDA /* ProfileSummary.swift */,
+				249C669925F0DC75003CDFDA /* ProfileEditor.swift */,
 				249C669025F0D067003CDFDA /* HikeBadge.swift */,
 			);
 			path = Views;
@@ -424,6 +427,7 @@
 				249C665125F08B02003CDFDA /* Hike.swift in Sources */,
 				249C663D25F0845B003CDFDA /* RotatedBadgeSymbol.swift in Sources */,
 				249C663825F0834E003CDFDA /* BadgeSymbol.swift in Sources */,
+				249C669A25F0DC75003CDFDA /* ProfileEditor.swift in Sources */,
 				249C661325EF8B4E003CDFDA /* LandmarkDetail.swift in Sources */,
 				249C666025F08C6F003CDFDA /* HikeView.swift in Sources */,
 				249C65E325EF744F003CDFDA /* CircleImage.swift in Sources */,
