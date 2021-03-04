@@ -221,10 +221,6 @@
 		249C65FE25EF841F003CDFDA /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				249C665025F08B02003CDFDA /* Hike.swift */,
-				249C667625F0C743003CDFDA /* Profile.swift */,
-				249C65F125EF80B5003CDFDA /* Landmark.swift */,
-				249C65F625EF82AF003CDFDA /* ModelData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -285,6 +281,10 @@
 		249C669E25F0EBB5003CDFDA /* Profile */ = {
 			isa = PBXGroup;
 			children = (
+				249C665025F08B02003CDFDA /* Hike.swift */,
+				249C667625F0C743003CDFDA /* Profile.swift */,
+				249C65F125EF80B5003CDFDA /* Landmark.swift */,
+				249C65F625EF82AF003CDFDA /* ModelData.swift */,
 				249C668625F0C866003CDFDA /* ProfileHost.swift */,
 				249C668B25F0C8C1003CDFDA /* ProfileSummary.swift */,
 				249C669925F0DC75003CDFDA /* ProfileEditor.swift */,
