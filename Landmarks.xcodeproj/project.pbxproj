@@ -66,6 +66,7 @@
 		249C671C25F1DC81003CDFDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249C65B825EF7117003CDFDA /* Assets.xcassets */; };
 		249C671D25F1DC81003CDFDA /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C65F625EF82AF003CDFDA /* ModelData.swift */; };
 		249C671E25F1DC81003CDFDA /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 249C664A25F08A95003CDFDA /* hikeData.json */; };
+		249C672525F1DDAD003CDFDA /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C672425F1DDAD003CDFDA /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -181,6 +182,7 @@
 		249C66EB25F1DA6A003CDFDA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		249C66ED25F1DA6A003CDFDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		249C66EE25F1DA6A003CDFDA /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		249C672425F1DDAD003CDFDA /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -409,6 +411,7 @@
 				249C66ED25F1DA6A003CDFDA /* Info.plist */,
 				249C66EE25F1DA6A003CDFDA /* PushNotificationPayload.apns */,
 				249C66EA25F1DA6A003CDFDA /* Preview Content */,
+				249C672425F1DDAD003CDFDA /* LandmarkDetail.swift */,
 			);
 			path = "WatchLandmarks Extension";
 			sourceTree = "<group>";
@@ -677,6 +680,7 @@
 				249C671D25F1DC81003CDFDA /* ModelData.swift in Sources */,
 				249C66E325F1DA69003CDFDA /* NotificationController.swift in Sources */,
 				249C671625F1DC81003CDFDA /* CircleImage.swift in Sources */,
+				249C672525F1DDAD003CDFDA /* LandmarkDetail.swift in Sources */,
 				249C671525F1DC81003CDFDA /* LandmarksApp.swift in Sources */,
 				249C671425F1DC81003CDFDA /* Profile.swift in Sources */,
 				249C671725F1DC81003CDFDA /* LandmarkList.swift in Sources */,
