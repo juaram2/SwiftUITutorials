@@ -407,11 +407,11 @@
 				249C66E225F1DA69003CDFDA /* NotificationController.swift */,
 				249C66E425F1DA69003CDFDA /* NotificationView.swift */,
 				249C66E625F1DA69003CDFDA /* ComplicationController.swift */,
+				249C672425F1DDAD003CDFDA /* LandmarkDetail.swift */,
 				249C66E825F1DA6A003CDFDA /* Assets.xcassets */,
 				249C66ED25F1DA6A003CDFDA /* Info.plist */,
 				249C66EE25F1DA6A003CDFDA /* PushNotificationPayload.apns */,
 				249C66EA25F1DA6A003CDFDA /* Preview Content */,
-				249C672425F1DDAD003CDFDA /* LandmarkDetail.swift */,
 			);
 			path = "WatchLandmarks Extension";
 			sourceTree = "<group>";
