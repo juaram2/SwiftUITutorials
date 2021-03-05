@@ -44,6 +44,7 @@
 		249C66C325F1CC9E003CDFDA /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C66BF25F1CC9D003CDFDA /* ProfileHost.swift */; };
 		249C66C425F1CC9E003CDFDA /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C66C025F1CC9E003CDFDA /* HikeBadge.swift */; };
 		249C66C525F1CC9E003CDFDA /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C66C125F1CC9E003CDFDA /* ProfileEditor.swift */; };
+		249C66CA25F1D458003CDFDA /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C66C925F1D458003CDFDA /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -107,6 +108,7 @@
 		249C66BF25F1CC9D003CDFDA /* ProfileHost.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		249C66C025F1CC9E003CDFDA /* HikeBadge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 		249C66C125F1CC9E003CDFDA /* ProfileEditor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
+		249C66C925F1D458003CDFDA /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -299,6 +301,7 @@
 				249C66A325F0ECB7003CDFDA /* PageViewController.swift */,
 				249C66AB25F0EEA0003CDFDA /* FeatureCard.swift */,
 				249C66B325F0F1EC003CDFDA /* PageView.swift */,
+				249C66C925F1D458003CDFDA /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -444,6 +447,7 @@
 				249C66C525F1CC9E003CDFDA /* ProfileEditor.swift in Sources */,
 				249C665E25F08C6F003CDFDA /* HikeGraph.swift in Sources */,
 				249C664225F084FD003CDFDA /* Badge.swift in Sources */,
+				249C66CA25F1D458003CDFDA /* PageControl.swift in Sources */,
 				249C65E825EF7569003CDFDA /* MapView.swift in Sources */,
 				249C66C425F1CC9E003CDFDA /* HikeBadge.swift in Sources */,
 				249C665D25F08C6F003CDFDA /* GraphCapsule.swift in Sources */,
